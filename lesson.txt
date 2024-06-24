@@ -1,0 +1,2 @@
+Note that primitive data types are stored in stacks and reference data types
+consisting of object literals, functions, arrays are stored in heaps
